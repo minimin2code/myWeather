@@ -1,0 +1,28 @@
+{
+  "name": "pretest2",
+  "version": "1.0.0",
+  "main": "weather-main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimin2code/myWeather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimin2code/myWeather/issues"
+  },
+  "homepage": "https://github.com/minimin2code/myWeather#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
